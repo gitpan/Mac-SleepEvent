@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Mac-SleepEvent
-version:            0.01
+version:            0.02
 abstract:           run Perl code on Mac OS X sleep and wake events
 author:
     - Lee Aylward <leedo@cpan.org>
